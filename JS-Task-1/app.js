@@ -1,3 +1,6 @@
+// 06-07 April 2023 Task 1
+
+
 let zaKat = 0.025;
 let userInput = +prompt("Enter the value");
 
