@@ -24,3 +24,5 @@ let userNum2 = prompt("Enter second number to be added");
 
 let result = userNum1 + userNum2;
 console.log(result);
+
+
